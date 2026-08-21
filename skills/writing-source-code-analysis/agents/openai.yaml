@@ -1,0 +1,4 @@
+interface:
+  display_name: "源码解析写作"
+  short_description: "研究源码并撰写适配仓库、读者与发布目标的中文解析文章"
+  default_prompt: "使用 $writing-source-code-analysis 研究当前仓库。先建立内部证据索引，再与我确认文章定位和叙事方案。"
